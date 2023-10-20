@@ -1,1 +1,4 @@
- 
+.base{
+ width: 50%; //o aumento da largura implica maior expansão horizontakmente
+margin: auto;
+} 
