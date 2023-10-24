@@ -1,1 +1,23 @@
- 
+.base {
+   
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;
+    letter-spacing: 1.5px;
+    background-color: #eeeeee;
+} 
+
+.bloco1 {
+background-color:orange;
+} 
+
+.bloco2 {
+    background-color:green;
+    }
+
+.bloco3 {
+        background-color:red;
+        }
+h1,
+h2 {
+    margin: auto;
+}
